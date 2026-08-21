@@ -1,4 +1,4 @@
-# Concert-Travel-Agent
+# Concert Travel Agent
 A conversational agent that combines live concert data, real time flight pricing, and setlist information to help music fans plan concert travel without manually cross-referencing Ticketmaster, flight search engines, and setlist websites.
 
 
